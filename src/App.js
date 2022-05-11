@@ -35,7 +35,7 @@ const App = () => {
     return (
         <div className="App">
             <h1>Elias M152</h1>
-            <Carousel className="Gallery" images={images} style={{height: 700, width: 700, margin: 15}}/>
+            <Carousel className="Gallery" images={images} style={{height: 600, width: 600, margin: 15}}/>
             <YoutubeEmbed embedId="Gmhh6Ppb16k" />
         </div>
     );
