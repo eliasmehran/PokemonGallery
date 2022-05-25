@@ -52,3 +52,13 @@ h1 {
         transform: rotate(360deg);
     }
 }
+
+.Anim {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+    margin: 10px;
+    padding: 10px;
+}
