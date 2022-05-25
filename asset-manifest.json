@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/PokemonGallery/static/css/main.bfb43012.css",
-    "main.js": "/PokemonGallery/static/js/main.3c2cbbf4.js",
+    "main.css": "/PokemonGallery/static/css/main.178de823.css",
+    "main.js": "/PokemonGallery/static/js/main.9dae09bc.js",
     "static/js/787.d7e7aaf3.chunk.js": "/PokemonGallery/static/js/787.d7e7aaf3.chunk.js",
+    "static/media/raccoon_death.gif": "/PokemonGallery/static/media/raccoon_death.b96539e4cc2ef0ca979b.gif",
+    "static/media/raccoon_hurt.gif": "/PokemonGallery/static/media/raccoon_hurt.8e594d6404f06628b41a.gif",
+    "static/media/raccoon_taunt_2.gif": "/PokemonGallery/static/media/raccoon_taunt_2.d7574ecf6dd9eccaa1ef.gif",
+    "static/media/raccoon_taunt_1.gif": "/PokemonGallery/static/media/raccoon_taunt_1.ce2aae6c0121f748c398.gif",
     "index.html": "/PokemonGallery/index.html",
-    "main.bfb43012.css.map": "/PokemonGallery/static/css/main.bfb43012.css.map",
-    "main.3c2cbbf4.js.map": "/PokemonGallery/static/js/main.3c2cbbf4.js.map",
+    "main.178de823.css.map": "/PokemonGallery/static/css/main.178de823.css.map",
+    "main.9dae09bc.js.map": "/PokemonGallery/static/js/main.9dae09bc.js.map",
     "787.d7e7aaf3.chunk.js.map": "/PokemonGallery/static/js/787.d7e7aaf3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfb43012.css",
-    "static/js/main.3c2cbbf4.js"
+    "static/css/main.178de823.css",
+    "static/js/main.9dae09bc.js"
   ]
 }
